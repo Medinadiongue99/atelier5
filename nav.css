@@ -27,20 +27,15 @@ h1{
 @media screen and (max-width: 600px){
 	.div1{
 		display: flex;
-		transform: translateY(-30px);
-		gap: 135px;
+		transform: translateY(-20px);
+		gap: 50px;
 	}
 	h1{
-		transform: translate(-50px, -25px);
-		font-size: 40px;
+		transform: translate(-25px, -15px);
+		font-size: 30px;
 	}
 	nav{
 		flex-wrap: wrap;
 		height: auto;
-	}
-	.div{
-		width: 60px;
-		height: 45px;
-		padding-top: 20px;
 	}
 }
